@@ -1,5 +1,5 @@
 『爆乳パーティNTR　進捗報告版』
-　
+　![Big-Breasts-Party-NTR](https://github.com/user-attachments/assets/5ff38cb4-5ee7-4ecc-b9ce-ef46dbb7b46d)
 
 バージョンは【1.00】です
 
@@ -28,10 +28,10 @@
 
 ■操作方法■
 
-
 矢印キー：移動
 Enterキー or Zキー：決定
 Xキー or 右クリック:メニュー/キャンセル
+
 
 
 〇メッセージ表示時〇
