@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":6,"description":"扱いやすい短剣","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"ショートソード","note":"","params":[0,0,8,0,0,0,0,0],"price":120,"wtypeId":2},
+{"id":2,"animationId":6,"description":"扱いやすい細身の剣","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"ロングソード","note":"","params":[0,0,12,0,0,0,0,0],"price":250,"wtypeId":2},
+{"id":3,"animationId":1,"description":"泉の近くにある木々から作られた杖","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"ロッド","note":"","params":[0,0,3,0,5,0,0,0],"price":200,"wtypeId":6},
+{"id":4,"animationId":1,"description":"精霊が宿る木から作り出された杖","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"マジックロッド","note":"","params":[0,0,5,0,10,0,0,0],"price":350,"wtypeId":6}
+]

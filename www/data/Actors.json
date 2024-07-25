@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"KurutoWalk","classId":1,"equips":[1,0,0,3,0],"faceIndex":4,"faceName":"","traits":[{"code":41,"dataId":2,"value":1}],"initialLevel":20,"maxLevel":99,"name":"クルト","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"ArikaWalk","classId":2,"equips":[2,0,2,6,7],"faceIndex":0,"faceName":"ArikaIcon","traits":[],"initialLevel":19,"maxLevel":99,"name":"アリカ","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_1","characterIndex":0,"characterName":"RiettaWalk","classId":4,"equips":[3,0,0,5,4],"faceIndex":0,"faceName":"RiettaIcon","traits":[],"initialLevel":16,"maxLevel":99,"name":"リエッタ","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"TerenaWalk","classId":3,"equips":[4,0,2,6,7],"faceIndex":0,"faceName":"TerenaIcon","traits":[],"initialLevel":26,"maxLevel":99,"name":"テレーナ","nickname":"","note":"","profile":""}
+]
